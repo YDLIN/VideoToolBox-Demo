@@ -1,0 +1,6 @@
+framework module Pods_VideoCapture {
+  umbrella header "Pods-VideoCapture-umbrella.h"
+
+  export *
+  module * { export * }
+}
